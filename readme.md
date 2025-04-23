@@ -1,4 +1,4 @@
-# Event-ETR
+# EGEC: LLM Enhanced Explainable Graph for 12345 Citizen Complaints Classification
 
 ---
 ## Dataset
