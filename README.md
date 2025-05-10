@@ -1,4 +1,4 @@
-# \mathrm{LE}^2\mathrm{C}: LLM-Enhanced Event Evolutionary Graph for Explainable Classification
+# $\mathrm{LE}^2\mathrm{C}$: LLM-Enhanced Event Evolutionary Graph for Explainable Classification
 
 ---
 ## Dataset
