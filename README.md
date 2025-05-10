@@ -1,4 +1,4 @@
-# EGEC: LLM Enhanced Explainable Graph for 12345 Citizen Complaints Classification
+# LE\textsuperscript{2}C: LLM-Enhanced Event Evolutionary Graph for Explainable Classification
 
 ---
 ## Dataset
