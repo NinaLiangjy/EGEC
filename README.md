@@ -13,5 +13,5 @@ We extract events from ticket with few-short icl with Qwen2.5-7B-Instruct.
 https://huggingface.co/Qwen/Qwen2.5-7B-Instruct
 the code is in extract_qwen.py
 
-### Event-ERT 
+### $\mathrm{LE}^2\mathrm{C}$ 
 We construct Event-ERT to peformance ticket routing and hotspot mining,in graph.py
